@@ -3,7 +3,7 @@
     --light: #ffffff;
     --dark: #222222;
     --primary: #c0c0c0;
-    --silver: #c0c0c0;
+    --blue: #007bff;
 }
 
 *{
@@ -247,7 +247,7 @@ body{
 
 .product .row .card .card-description .buy{
     color: var(--light);
-    background-color: var(--primary);
+    background-color: var(--blue);
     padding: 5px 10px;
     border-radius: 5px;
     text-align: center;
@@ -392,7 +392,7 @@ footer .copyright p a{
         width: 50%;
     }
     .home{
-        height: 900px;
+        height: 860px;
     .home .hero-section h1{
         font-size: 30px;
     }
